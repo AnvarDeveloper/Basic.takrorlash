@@ -1,0 +1,15 @@
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.csproj.AssemblyReference.cache
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.AssemblyInfoInputs.cache
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.AssemblyInfo.cs
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.csproj.CoreCompileInputs.cache
+D:\C# code\Basic.Takrorlash\factarial\factarial\bin\Debug\net6.0\factarial.exe
+D:\C# code\Basic.Takrorlash\factarial\factarial\bin\Debug\net6.0\factarial.deps.json
+D:\C# code\Basic.Takrorlash\factarial\factarial\bin\Debug\net6.0\factarial.runtimeconfig.json
+D:\C# code\Basic.Takrorlash\factarial\factarial\bin\Debug\net6.0\factarial.dll
+D:\C# code\Basic.Takrorlash\factarial\factarial\bin\Debug\net6.0\factarial.pdb
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.dll
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\refint\factarial.dll
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.pdb
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\factarial.genruntimeconfig.cache
+D:\C# code\Basic.Takrorlash\factarial\factarial\obj\Debug\net6.0\ref\factarial.dll

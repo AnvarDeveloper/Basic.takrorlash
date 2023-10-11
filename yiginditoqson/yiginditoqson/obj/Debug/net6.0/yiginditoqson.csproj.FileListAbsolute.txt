@@ -1,0 +1,15 @@
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\bin\Debug\net6.0\yiginditoqson.exe
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\bin\Debug\net6.0\yiginditoqson.deps.json
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\bin\Debug\net6.0\yiginditoqson.runtimeconfig.json
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\bin\Debug\net6.0\yiginditoqson.dll
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\bin\Debug\net6.0\yiginditoqson.pdb
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.csproj.AssemblyReference.cache
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.AssemblyInfoInputs.cache
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.AssemblyInfo.cs
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.csproj.CoreCompileInputs.cache
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.dll
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\refint\yiginditoqson.dll
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.pdb
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\yiginditoqson.genruntimeconfig.cache
+D:\C# code\Basic.Takrorlash\yiginditoqson\yiginditoqson\obj\Debug\net6.0\ref\yiginditoqson.dll
